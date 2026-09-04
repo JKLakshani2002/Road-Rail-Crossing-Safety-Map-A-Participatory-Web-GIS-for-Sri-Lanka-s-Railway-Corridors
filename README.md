@@ -1,0 +1,2 @@
+# Road-Rail-Crossing-Safety-Map-A-Participatory-Web-GIS-for-Sri-Lanka-s-Railway-Corridors
+Interactive Web GIS mapping railway lines, stations, and road–rail crossings across Sri Lanka, classified by transport risks (High/Medium/Low). Citizens can anonymously report unsafe conditions including missing barriers, poor visibility, congestion, signal failures, and near-misses, helping planners prioritize railway crossing safety improvements.
